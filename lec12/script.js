@@ -39,6 +39,8 @@
 let num = [45,78,90,34,67];
 console.log("Original Array : "+num);
 
+console.log("7,62,09,95,285")
+
 num.push(85);
 console.log("After Push : "+num);
 
